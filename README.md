@@ -1,5 +1,5 @@
 Yolo! 
 Complete this exercise by running
 ```
-rspec spec/number_tracker_spec.rb
+rspec --color spec/number_tracker_spec.rb
 ```
