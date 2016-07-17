@@ -1,0 +1,2 @@
+class NumberTracker
+end
